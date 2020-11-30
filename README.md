@@ -17,7 +17,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 A aplicação foi desenvolvida aplicando os conceitos SOLID, DDD e TDD.
 
-O que é SOLID?
+<h4>O que é SOLID?</h4>
 
 SOLID é um acrônimo criado por Michael Feathers, após observar que cinco princípios da orientação a objetos e design de código — Criados por Robert C. Martin (a.k.a. Uncle Bob) e abordados no artigo The Principles of OOD — poderiam se encaixar nesta palavra.
 S.O.L.I.D: Os 5 princípios da POO
@@ -32,13 +32,18 @@ I — Interface Segregation Principle (Princípio da Segregação da Interface)
 
 D — Dependency Inversion Principle (Princípio da inversão da dependência)
 
+<br>
 
-O que é DDD?
+<h4>O que é DDD?</h4>
+
 
 O DDD (Domain-Driven Design) é a abordagem para o desenvolvimento de software que nos permite traduzir domínios de problemas complexos em software rico, expressivo e em evolução. É a maneira como projetamos aplicativos quando as necessidades de nossos usuários são complexas. Nela dividimos a aplicação entre a camada de domínio e a camada de infra.
 
+<br>
 
-O que é TDD?
+
+<h4>O que é TDD?</h4>
+
 
 TDD é o Desenvolvimento Orientado por Testes (Test Driven Development). Isso mesmo! Desenvolvemos o nosso software baseado em testes que são escritos antes do nosso código de produção! 
 Basicamente o TDD se baseia em pequenos ciclos de repetições, onde para cada funcionalidade do sistema um teste é criado antes. Este novo teste criado inicialmente como uma falha, já que ainda não temos a implementação da funcionalidade e em seguida, implementamos a funcionalidade para fazer o teste passar!
