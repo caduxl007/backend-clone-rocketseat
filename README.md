@@ -11,6 +11,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Express](https://expressjs.com/pt-br/)
 - [TypeOrm](https://typeorm.io/#/)
 - [Jest](https://jestjs.io/)
+- [Docker](https://www.docker.com/)
+- [PostgreSql](https://www.postgresql.org/)
 
 
 ### 🛠 Solid, DDD e TDD
@@ -41,7 +43,6 @@ O DDD (Domain-Driven Design) é a abordagem para o desenvolvimento de software q
 
 <br>
 
-
 <h4>O que é TDD?</h4>
 
 
@@ -49,6 +50,8 @@ TDD é o Desenvolvimento Orientado por Testes (Test Driven Development). Isso me
 Basicamente o TDD se baseia em pequenos ciclos de repetições, onde para cada funcionalidade do sistema um teste é criado antes. Este novo teste criado inicialmente como uma falha, já que ainda não temos a implementação da funcionalidade e em seguida, implementamos a funcionalidade para fazer o teste passar!
 
 * A aplicação foi desenvolvida com base nos Testes Unitários, que testam partes do código isolado! O [Jest](https://jestjs.io/) foi a tecnologia usada nos testes.
+<br>
+<br>
 
 
 <h1>📱 Como usar?</h1>
@@ -56,7 +59,7 @@ Basicamente o TDD se baseia em pequenos ciclos de repetições, onde para cada f
 ### Pré-requisitos
 
 Primeiramente, você precisa ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), e o instalador de pacotes [Yarn](https://yarnpkg.com/). 
+[Git](https://git-scm.com), o instalador de pacotes [Yarn](https://yarnpkg.com/) e o [Docker](https://www.docker.com/). 
 E lógico é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando a aplicação
