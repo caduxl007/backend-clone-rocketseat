@@ -71,7 +71,7 @@ $ git clone <https://github.com/caduxl007/backend-clone-rocketseat.git>
 # Após instalar o docker execute no terminal/cmd
 $ docker run --name "nome-que-quiser" -e POSTGRES_PASSWORD=docker -p 5434:5432 -d postgres
 
-# Use qualquer gerenciar de banco de dados e uma database no postgres:
+# Use qualquer gerenciar de banco de dados e crie uma database no postgres:
 $ nome da database: clone_rocketseat
 $ port: 5434
 
