@@ -66,10 +66,14 @@ E lógico é bom ter um editor para trabalhar com o código como [VSCode](https:
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/caduxl007/clone-rocketseat.git>
-
-# Clone o repositório do backend
 $ git clone <https://github.com/caduxl007/backend-clone-rocketseat.git>
+
+# Após instalar o docker execute no terminal/cmd
+$ docker run --name "nome-que-quiser" -e POSTGRES_PASSWORD=docker -p 5434:5432 -d postgres
+
+# Use qualquer gerenciar de banco de dados e uma database no postgres:
+$ nome da database: clone_rocketseat
+$ port: 5434
 
 # Acesse a pasta do projeto backend no terminal/cmd
 $ cd backend-clone-rocketseat
@@ -77,7 +81,10 @@ $ cd backend-clone-rocketseat
 Instale as dependências
 $ yarn
 
-# Execute o server
+# Execute o comando para instalar as tabelas
+$ yarn typeorm migration:run
+
+# Execute a aplicação
 $ yarn dev:server
 
 ## Prontinho você terá acesso a aplicação!!!
