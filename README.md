@@ -36,7 +36,7 @@ D — Dependency Inversion Principle (Princípio da inversão da dependência)
 
 <br>
 
-<h4>O que é DDD?</h4>
+<h4>O que é DDD? </h4>
 
 
 O DDD (Domain-Driven Design) é a abordagem para o desenvolvimento de software que nos permite traduzir domínios de problemas complexos em software rico, expressivo e em evolução. É a maneira como projetamos aplicativos quando as necessidades de nossos usuários são complexas. Nela dividimos a aplicação entre a camada de domínio e a camada de infra.
