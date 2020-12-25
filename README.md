@@ -73,7 +73,7 @@ $ docker run --name "nome-que-quiser" -e POSTGRES_PASSWORD=docker -p 5434:5432 -
 
 # Use qualquer gerenciar de banco de dados e crie uma database no postgres:
 $ nome da database: clone_rocketseat
-$ port: 5434 
+$ port: 5434
 
 # Acesse a pasta do projeto backend no terminal/cmd
 $ cd backend-clone-rocketseat
