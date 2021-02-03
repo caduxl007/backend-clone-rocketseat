@@ -10,7 +10,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [TypeOrm](https://typeorm.io/#/)
-- [Jest](https://jestjs.io/)
+- [Jest](https://jestjs.io/) 
 - [Docker](https://www.docker.com/)
 - [PostgreSql](https://www.postgresql.org/)
 
