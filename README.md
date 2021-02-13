@@ -8,7 +8,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [NodeJs](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Express](https://expressjs.com/pt-br/)
+- [Express](https://expressjs.com/pt-br/) 
 - [TypeOrm](https://typeorm.io/#/)
 - [Jest](https://jestjs.io/) 
 - [Docker](https://www.docker.com/)
