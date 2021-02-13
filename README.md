@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [PostgreSql](https://www.postgresql.org/)
 
  
-### 🛠 Solid, DDD e TDD
+### 🛠 Solid, DDD e TDD 
 
 A aplicação foi desenvolvida aplicando os conceitos SOLID, DDD e TDD.
 
