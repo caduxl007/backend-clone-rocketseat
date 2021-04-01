@@ -2,7 +2,7 @@
 <p align="center">Aplicação desenvolvida com NodeJS, aplicando conceitos SOLID, DDD e TDD.</p>
 
 
-### 🛠 Tecnologias
+### 🛠 Tecnologias 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
